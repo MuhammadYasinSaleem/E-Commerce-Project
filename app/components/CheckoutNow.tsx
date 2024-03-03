@@ -29,6 +29,6 @@ export default function CheckoutNow(
 onClick={()=>{
     buyNow(product.price_id);
 }}
->Add To Cart</Button>
+>Checkout Now</Button>
     )
 }

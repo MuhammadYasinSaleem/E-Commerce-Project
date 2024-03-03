@@ -74,7 +74,6 @@ Incl.Vat plus shipping
 <CheckoutNow
 currency="USD" description={data.description} image={data.images[0]} name={data.name} price={data.price} key={data._id} price_id={data.price_id}
 />
-<Button variant={"secondary"}>Checkout now</Button>
 </div>
 
 <p className="mt-12 text-base text-gray-500 tracking-wide">
