@@ -27,8 +27,8 @@ return(
 Our Newest products
 </h2>
 
-<Link className="text-primary flex items-center gap-x-1" href="/all">
-    See All{" "}
+<Link className="text-primary flex items-center gap-x-1" href="/SeeAll">
+    See All
     <span>
         <ArrowRight/>
     </span>
