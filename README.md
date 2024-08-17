@@ -21,4 +21,9 @@ Use the following command to download related dependencies
 npm i stripe use-shopping-cart next-sanity @stripe/stripe-js @sanity/image-url 
 ```
 
+## Preview
+
+![App Screenshot](./public/image.png)
+
+
 
